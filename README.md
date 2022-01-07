@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marckxp
-- 👀 I’m interested in Web programing and Game Programing
+- 👀 I’m interested in Web Programming and Game Programming
 - 🌱 I’m currently learning PHP, CSS, JavaScript and others
 - 💞️ I’m looking to collaborate on Any project that i can learn anyting.
 - 📫 How to reach me marckxp@gmail.com
