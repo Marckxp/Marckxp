@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marckxp
 - 👀 I’m interested in Web programing and Game Programing
-- 🌱 I’m currently learning PHP, CSS, Javascript and others
-- 💞️ I’m looking to collaborate on Any project that i can learn anyting new
+- 🌱 I’m currently learning PHP, CSS, JavaScript and others
+- 💞️ I’m looking to collaborate on Any project that i can learn anyting.
 - 📫 How to reach me marcelo.besteti@hotmail.com
 
 <!---
