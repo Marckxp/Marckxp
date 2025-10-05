@@ -1,6 +1,6 @@
 # 👨‍💻 Developer Portfolio
 
-![Banner](github_banner.png)
+![Banner](Designer.png)
 
 ## About Me
 
