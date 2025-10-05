@@ -18,7 +18,7 @@ I enjoy building scalable web and mobile applications, and I'm always exploring 
 - **Languages**: PHP, JavaScript, C#
 - **Frameworks**: .NET MAUI, Blazor, Laravel
 - **Web**: HTML5, CSS3, Bootstrap
-- **Game Dev**: Unity, MonoGame
+- **Game Dev**: Unreal Engine
 - **Version Control**: Git & GitHub
 
 ## 📫 Let's Connect
