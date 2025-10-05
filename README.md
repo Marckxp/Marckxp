@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Marckxp
-- 👀 I’m interested in Web Programming and Game Programming
-- 🌱 I’m currently learning PHP, CSS, JavaScript and others
-- 💞️ I’m looking to collaborate on Any project that i can learn anyting.
-- 📫 How to reach me marckxp@gmail.com
+# 👨‍💻 Developer Portfolio
 
-<!---
-Marckxp/Marckxp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Banner](github_banner.png)
+
+## About Me
+
+I'm a passionate developer with a strong foundation in both front-end and back-end technologies. My expertise spans across:
+
+- **Front-End Development**: HTML, CSS, JavaScript
+- **Back-End Development**: PHP, C#
+- **Cross-Platform Applications**: .NET MAUI Blazor Hybrid
+- **Game Programming**: Creating interactive and immersive digital experiences
+
+I enjoy building scalable web and mobile applications, and I'm always exploring new technologies to enhance user experiences.
+
+## 🔧 Technologies & Tools
+
+- **Languages**: PHP, JavaScript, C#
+- **Frameworks**: .NET MAUI, Blazor, Laravel
+- **Web**: HTML5, CSS3, Bootstrap
+- **Game Dev**: Unity, MonoGame
+- **Version Control**: Git & GitHub
+
+## 📫 Let's Connect
+
+Feel free to reach out or explore my repositories to see my work in action. I'm always open to collaboration and new opportunities!
+
