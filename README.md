@@ -9,7 +9,7 @@ I'm a passionate developer with a strong foundation in both front-end and back-e
 - **Front-End Development**: HTML, CSS, JavaScript
 - **Back-End Development**: PHP, C#
 - **Cross-Platform Applications**: .NET MAUI Blazor Hybrid
-- **Game Programming**: Creating interactive and immersive digital experiences
+- **Game Programming**: Learning Unreal Engine
 
 I enjoy building scalable web and mobile applications, and I'm always exploring new technologies to enhance user experiences.
 
