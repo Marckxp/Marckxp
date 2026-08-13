@@ -44,9 +44,13 @@ Atualmente, atuo na sustentação e evolução simultânea de múltiplos projeto
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Marckxp&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150" />
+</p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marckxp&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="150" />
 </p>
-
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marckxp&theme=radical" alt="GitHub Streak" height="150" />
+</p>
 ---
 
 ## 📫 Como me encontrar:
