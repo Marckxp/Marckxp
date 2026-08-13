@@ -51,7 +51,7 @@ Atualmente, atuo na sustentação e evolução simultânea de múltiplos projeto
 
 ## 📫 Como me encontrar:
 
-- **LinkedIn:** [://linkedin.com](https://linkedin.com/in/marcelo-ricarte-besteti-86a94069)
+- **LinkedIn:** [https://linkedin.com/in/marcelo-ricarte-besteti-86a94069](https://linkedin.com/in/marcelo-ricarte-besteti-86a94069)
 - **E-mail:** [marckxp@gmail.com](mailto:marckxp@gmail.com)
 
 
