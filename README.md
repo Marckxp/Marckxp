@@ -43,11 +43,13 @@ Atualmente, atuo na sustentação e evolução simultânea de múltiplos projeto
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.github.io/api?username=Marckxp&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://profile-counter.glitch.me/Marckxp/count.svg" alt="Visitantes do Perfil" />
 </p>
-
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marckxp&theme=radical" alt="GitHub Streak" height="150" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 ---
