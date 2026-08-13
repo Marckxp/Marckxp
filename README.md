@@ -1,37 +1,58 @@
-# 👨‍💻 Full-Stack Developer Portfolio
+# Olá, eu sou o Marcelo Ricarte Besteti 👋
 
-![Banner](Designer.png)
+### Desenvolvedor Full Stack Pleno | Node.js | React | PHP | C# (.NET MAUI)
 
-## 👋 About Me
+Profissional de TI com mais de 20 anos de experiência prática no ecossistema de tecnologia, unindo uma sólida base de infraestrutura, arquitetura e lógica corporativa à Engenharia de Software Moderna. 
 
-I'm a passionate **Full-Stack Developer** dedicated to building scalable web, mobile, and cross-platform applications. With a strong foundation in both front-end and back-end architectures, I enjoy solving complex problems and optimizing user experiences.
+Atualmente, atuo na sustentação e evolução simultânea de múltiplos projetos de alta complexidade, utilizando **Node.js** no Backend e **React** no Frontend. Possuo também sólida bagagem no ecossistema **PHP** e experiência prática no desenvolvimento mobile nativo/híbrido com **C# e .NET MAUI**.
 
-- 💻 **Core Expertise**: Full-stack development with a strong focus on **C#**, **PHP**, and modern web technologies.
-- 📱 **Cross-Platform**: Building seamless native mobile and desktop apps using **.NET MAUI Blazor Hybrid**.
-- 🗄️ **Data Management**: Experienced in structuring and managing relational databases like **MySQL** and **PostgreSQL**.
-- 🎮 **Game Development**: Passionate about game programming and actively expanding my skills in **Unreal Engine**.
+---
 
-I am always exploring new tools and methodologies to write cleaner code and build better systems.
+## 🛠️ Tecnologias e Ferramentas
 
-## 🔧 Technologies & Tools
+### 🖥️ Backend & Mobile
+- **Linguagens e Ambientes:** Node.js (JavaScript / TypeScript), PHP, C# (.NET)
+- **Frameworks & Frameworks Mobile:** Express, Laravel, .NET MAUI
+- **Bancos de Dados:** MySQL, PostgreSQL, SQL Server
 
-Here are the main technologies I work with on a daily basis:
+### 🎨 Frontend
+- **Bibliotecas e Ferramentas:** React, JavaScript (ES6+), TypeScript, HTML5, CSS3, Bootstrap, Tailwind CSS
 
-- **Languages**: C#, PHP, JavaScript, TypeScript, HTML5, CSS3
-- **Frameworks & Libraries**: .NET MAUI, Blazor, Laravel, Bootstrap
-- **Databases**: MySQL, PostgreSQL
-- **Game Dev**: Unreal Engine
-- **Tools & Version Control**: Git, GitHub
+### ⚙️ Infraestrutura & Ferramentas
+- **DevOps e Versionamento:** Git, GitHub
+- **Bagagem de TI:** Arquitetura de Redes, Administração de Servidores, Segurança da Informação, Integração de Sistemas Legados
 
-## 📫 Let's Connect
+---
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out or explore my repositories to see my code in action!
+## 🚀 Projetos em Destaque
+
+#### 📦 Ecossistema Full Stack (Atuação Atual)
+- **Descrição:** Sustentação e desenvolvimento paralelo de duas aplicações corporativas robustas, gerenciando arquiteturas complexas de ponta a ponta.
+- **Tecnologias:** Node.js, React, APIs RESTful, SQL.
+
+#### 📱 Aplicativo Mobile Cross-Platform (.NET MAUI)
+- **Descrição:** Projeto autônomo focado na arquitetura e desenvolvimento completo de um aplicativo mobile para Android e iOS, aplicando padrões de projeto estruturais e consumo de APIs externas.
+- **Tecnologias:** C#, .NET MAUI, POO Avançada.
+
+#### 🌐 Sistemas e Automações Web (Legado & Produção)
+- **Descrição:** Desenvolvimento ao longo de duas décadas de dezenas de sistemas web sob demanda, portais dinâmicos e ferramentas de automação comercial.
+- **Tecnologias:** PHP, JavaScript, MySQL.
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <a href="mailto:marckxp@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/marcelo-ricarte-besteti-86a94069/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://vercel.app" alt="Linguagens Mais Usadas" height="150" />
 </p>
+
+---
+
+## 📫 Como me encontrar:
+
+- **LinkedIn:** [://linkedin.com](https://://linkedin.com/marcelo-ricarte-besteti-86a94069)
+- **E-mail:** [marckxp@gmail.com](mailto:marckxp@gmail.com)
+
+
+
