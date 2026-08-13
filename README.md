@@ -12,7 +12,7 @@ Atualmente, atuo na sustentação e evolução simultânea de múltiplos projeto
 
 ### 🖥️ Backend & Mobile
 - **Linguagens e Ambientes:** Node.js (JavaScript / TypeScript), PHP, C# (.NET)
-- **Frameworks & Frameworks Mobile:** Express, Laravel, .NET MAUI
+- **Frameworks & Mobile:** Express, Laravel, .NET MAUI
 - **Bancos de Dados:** MySQL, PostgreSQL, SQL Server
 
 ### 🎨 Frontend
@@ -26,27 +26,24 @@ Atualmente, atuo na sustentação e evolução simultânea de múltiplos projeto
 
 ## 🚀 Projetos em Destaque
 
-#### 📦 Ecossistema Full Stack (Atuação Atual)
-- **Descrição:** Sustentação e desenvolvimento paralelo de duas aplicações corporativas robustas, gerenciando arquiteturas complexas de ponta a ponta.
+#### 📦 Ecossistema Full Stack
+- **Descrição:** Sustentação e desenvolvimento paralelo de aplicações corporativas robustas, gerenciando arquiteturas complexas de ponta a ponta.
 - **Tecnologias:** Node.js, React, APIs RESTful, SQL.
 
 #### 📱 Aplicativo Mobile Cross-Platform (.NET MAUI)
-- **Descrição:** Projeto autônomo focado na arquitetura e desenvolvimento completo de um aplicativo mobile para Android e iOS, aplicando padrões de projeto estruturais e consumo de APIs externas.
+- **Descrição:** Arquitetura e desenvolvimento completo de aplicativo mobile para Android e iOS, aplicando padrões de projeto estruturais e consumo de APIs externas.
 - **Tecnologias:** C#, .NET MAUI, POO Avançada.
 
 #### 🌐 Sistemas e Automações Web (Legado & Produção)
-- **Descrição:** Desenvolvimento ao longo de duas décadas de dezenas de sistemas web sob demanda, portais dinâmicos e ferramentas de automação comercial.
+- **Descrição:** Desenvolvimento de sistemas web sob demanda, portais dinâmicos e ferramentas de automação comercial.
 - **Tecnologias:** PHP, JavaScript, MySQL.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🧰 Linguagens & Tecnologias Principais
 
 <p align="left">
-  <img src="https://profile-counter.glitch.me/Marckxp/count.svg" alt="Visitantes do Perfil" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -54,10 +51,7 @@ Atualmente, atuo na sustentação e evolução simultânea de múltiplos projeto
 
 ---
 
-## 📫 Como me encontrar:
+## 📫 Como me encontrar
 
 - **LinkedIn:** [Marcelo Ricarte Besteti](https://linkedin.com/in/marcelo-ricarte-besteti-86a94069)
 - **E-mail:** [marckxp@gmail.com](mailto:marckxp@gmail.com)
-
-
-
