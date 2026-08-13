@@ -49,6 +49,7 @@ Atualmente, atuo na sustentação e evolução simultânea de múltiplos projeto
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marckxp&theme=radical" alt="GitHub Streak" height="150" />
 </p>
+
 ---
 
 ## 📫 Como me encontrar:
